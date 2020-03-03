@@ -6,7 +6,7 @@ var permalinks  = require('metalsmith-permalinks');
 
 Metalsmith(__dirname)
   .metadata({
-    title: "PooSay",
+    title: "Poo Say",
     description: "Your daily unpolished news at Tarleton State University.",
     generator: "Metalsmith",
     url: "https://poosay.com"
