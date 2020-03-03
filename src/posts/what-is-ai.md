@@ -14,5 +14,6 @@ You might be thinking at this point, So.. what is AI then? Considering that we h
 
 <blockquote>"Artificial Intelligence is the science of intelligent machines" - John McCarthy</blockquote><br>
 
-It is safe to say that the term <strong>AI</strong> is thrown around today as frequently as a football at a summer camp. Be that as it may, my definiton being purely derived from McCarthy's, is simply - <strong>Artificial Intelligence is the application and constant pursuit to replicate intelligence within machines</strong>. Artificial Intelligence is such a broad topic that there are many justified definitions out there, so reading many articles and sources on this matter certainly could not hurt. But i know what your probably thinking...
-![IDK](http://i.imgur.com/60bts.gif)
+It is safe to say that the term <strong>AI</strong> is thrown around today as frequently as a football at a summer camp. Be that as it may, my definiton being purely derived from McCarthy's, is simply - <strong>Artificial Intelligence is the application and constant pursuit to replicate intelligence within machines</strong>. Artificial Intelligence is such a broad topic that there are many justified definitions out there, so reading many articles and sources on this matter certainly could not hurt. But i know what your probably thinking...<br><br>
+
+<span style="text-align: center">![IDK](http://i.imgur.com/60bts.gif)</span>
