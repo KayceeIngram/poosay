@@ -2,7 +2,7 @@
 title: What is Investing?
 summary: Investing is putting your money to work.
 date: 2019-12-03
-author: Kaycee Ingram
+author: Purple Piss
 layout: post.html
 ---
 

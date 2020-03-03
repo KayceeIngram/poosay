@@ -2,7 +2,7 @@
 title: What is Artificial Intelligence?
 summary: My two cents on what AI truly is...
 date: 2019-12-02
-author: Kaycee Ingram
+author: Purple Piss
 layout: post.html
 ---
 

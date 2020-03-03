@@ -2,7 +2,7 @@
 title: My Fourth Post
 summary: I am a summary...
 date: 2012-12-07
-author: Kaycee Ingram
+author: Purple Piss
 layout: post.html
 ---
 

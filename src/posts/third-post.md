@@ -2,7 +2,7 @@
 title: My Third Post
 summary: I am a summary...
 date: 2012-09-28
-author: Kaycee Ingram
+author: Purple Piss
 layout: post.html
 ---
 
