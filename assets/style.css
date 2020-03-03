@@ -99,15 +99,13 @@ body:before {
   font-weight: bold;
   position:relative;
   padding: 10px 10px;
-  margin-bottom: 7px;
-  border-bottom:1px solid #373737;
   display: inline-block;
   font-size: 25px;
   font-weight: bold;
   font-family: 'Merriweather', 'Playfair Display', serif, cursive;
 }
 
-.nav-logo:before {
+/* .nav-logo:before {
   content:"";
   display:block;
   position:absolute;
@@ -116,10 +114,10 @@ body:before {
   width:100%;
   height:3px;
   background-color:#373737;
-}
+} */
 
 .navbar-toggler {
-  background-color: #E7E7E7;
+  background-color: #FFF;
 }
 
 .nav-link:hover {
