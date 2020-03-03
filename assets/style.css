@@ -118,10 +118,11 @@ body:before {
 
 .navbar-toggler {
   background-color: #FFF;
+  margin-right: 3px;
 }
 
 .nav-link:hover {
-  color: #51538F;
+  color: #333;
 }
 
 .email-link {
