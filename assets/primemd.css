@@ -1,10 +1,7 @@
-/* PrimeMd - Markdown Blog Post Styles */
-/* Author: Kaycee Ingram */
-
 blockquote {
   border: 1px solid #e7e7e7;
   background-color: #f7f7f7;
-  color: #F46160;
+  color: #4F2D7F;
   font-weight: bold;
   padding: 14px;
 }
@@ -15,18 +12,18 @@ strong {
 }
 
 .blog-link {
-  color: #F46160;
+  color: #4F2D7F;
   font-weight: bold;
   text-decoration: underline;
 }
 
 .highlight {
-  border-bottom: 3px solid #F46160;
+  border-bottom: 3px solid #4F2D7F;
   border-bottom-style: solid;
   padding-bottom: -14px;
 }
 
 .origin-letter {
-  color: #2E3440;
+  color: #4F2D7F;
   font-size: 35px;
 }
