@@ -10,4 +10,4 @@ layout: post.html
 
 <span class="center-media">![smiles](https://media.giphy.com/media/blEl99OgPQnNS/giphy.gif)</span>
 
-Jokes aside, I think most <span>Tarleton</span> students will genuinely enjoy the coming articles, and if not, please reach out and express the content you would most enjoy and we will make it happen! Yes, Seriously!
+Jokes aside, I think most <span>Tarleton</span> students will genuinely enjoy the coming articles, and if not, please reach out and express the content you would most enjoy. We will make it happen! Yes... Seriously! The Grittier the better, <a class="blog-link" href="https://poosay.com/contact/">so come on with it.</a>
