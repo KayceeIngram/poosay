@@ -37,3 +37,15 @@ a:hover {
   justify-content: center;
   align-items: center;
 }
+
+.logo-format {
+  font-style: italic;
+  font-weight: bold;
+  font-family: 'Merriweather', 'Playfair Display', serif, cursive;
+  letter-spacing: -1px;
+}
+
+.tarleton {
+  font-weight: bold;
+  color: #4F2D7F;
+}
