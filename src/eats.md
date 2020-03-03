@@ -1,5 +1,5 @@
 ---
-layout: books.html
+layout: eats.html
 ---
 
 <div style="background-color: #fff;">
