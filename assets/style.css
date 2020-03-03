@@ -216,7 +216,7 @@ progress::-webkit-progress-bar {
   background-color:  #4F2D7F !important;
 }
 
-hr {
+nav hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
