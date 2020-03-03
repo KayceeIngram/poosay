@@ -149,7 +149,7 @@ progress {
           appearance: none;
   border: none;
   background-color: transparent;
-  color: #FFF;
+  color: #18373f;
 }
 
 progress::-webkit-progress-bar {
@@ -199,7 +199,7 @@ progress::-webkit-progress-bar {
 }
 
 .progress-bar {
-  background-color: #FFF;
+  background-color: #18373f;
   width: 50%;
   display: block;
   height: inherit;
