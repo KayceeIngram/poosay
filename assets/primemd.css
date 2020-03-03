@@ -1,29 +1,33 @@
 blockquote {
   border: 1px solid #e7e7e7;
   background-color: #f7f7f7;
-  color: #4F2D7F;
+  color: #2b8c53;
   font-weight: bold;
   padding: 14px;
 }
 
 strong {
-  color: #2E3440;
+  color: #333;
   font-weight: bold;
 }
 
+a:hover {
+  color: ;
+}
+
 .blog-link {
-  color: #4F2D7F;
+  color: #2b8c53;
   font-weight: bold;
   text-decoration: underline;
 }
 
 .highlight {
-  border-bottom: 3px solid #4F2D7F;
+  border-bottom: 3px solid #2b8c53;
   border-bottom-style: solid;
   padding-bottom: -14px;
 }
 
 .origin-letter {
-  color: #4F2D7F;
+  color: #2b8c53;
   font-size: 35px;
 }
