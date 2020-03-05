@@ -227,8 +227,8 @@ nav hr {
   align-content: end;
 }
 
-@media(min-wdith: 992px) {
-  .nav-link {
-    margin-right: 35px !important;
+@media(min-width: 992px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    margin-right: 7px;
   }
 }
