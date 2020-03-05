@@ -226,3 +226,9 @@ nav hr {
   border-top: 1px solid #3F2466;
   align-content: end;
 }
+
+@media(min-wdith: 992px) {
+  .nav-item {
+    margin-right: 7px;
+  }
+}
