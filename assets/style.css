@@ -229,6 +229,6 @@ nav hr {
 
 @media(min-width: 992px) {
   .navbar-expand-lg .navbar-nav .nav-link {
-    margin-right: 7px;
+    margin-right: 25px;
   }
 }
