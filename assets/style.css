@@ -228,7 +228,7 @@ nav hr {
 }
 
 @media(min-wdith: 992px) {
-  .nav-item {
-    margin-right: 7px;
+  .nav-link {
+    margin-right: 35px;
   }
 }
