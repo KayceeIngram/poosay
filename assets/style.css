@@ -39,6 +39,7 @@ body:before {
 }
 
 .latest-edition-header {
+  font-weight: 900;
   margin-bottom: 14px;
 }
 
@@ -63,6 +64,7 @@ body:before {
 }
 
 .more-articles-header {
+  font-weight: 900;
   margin-bottom: 3px;
 }
 
