@@ -44,6 +44,7 @@ body:before {
 
 .latest-edition-article-link, .more-articles-article-link {
   color: #2b8c53;
+  font-weight: 700;
   font-size: 23px;
   padding: 7px 0;
 }
