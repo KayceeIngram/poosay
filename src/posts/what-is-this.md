@@ -6,7 +6,7 @@ author: Purple Piss
 layout: post.html
 ---
 
-&nbsp;&nbsp;&nbsp;<span class="origin-letter">I</span>'m sure your wondering what you have stumbled upon as you look around. Fear not... this is <span class="logo-format">"Poo Say"</span>, the most honest blog/news you'll ever read. The articles will, as i'm sure you have guessed, exclusively focus on <span class="tarleton">Tarleton</span> and <span style="color: #3f2a14;">the Ville</span> in general. I can tell your overloaded with excitement right now...<br><br>
+&nbsp;&nbsp;&nbsp;<span class="origin-letter">I</span>'m sure your wondering what you have stumbled upon as you look around. Fear not... this is <span class="logo-format">"Poo Say"</span>, the most honest blog/news you'll ever read. The articles will, as i'm sure you have guessed, exclusively focus on <span class="tarleton">Tarleton</span> and <span style="font-weight: bold; color: #3f2a14;">the Ville</span> in general. I can tell your overloaded with excitement right now...<br><br>
 
 <span class="center-media">![smiles](https://media.giphy.com/media/blEl99OgPQnNS/giphy.gif)</span><br><br>
 
